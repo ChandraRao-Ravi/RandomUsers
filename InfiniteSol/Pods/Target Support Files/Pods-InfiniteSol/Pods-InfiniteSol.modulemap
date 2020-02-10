@@ -1,0 +1,6 @@
+framework module Pods_InfiniteSol {
+  umbrella header "Pods-InfiniteSol-umbrella.h"
+
+  export *
+  module * { export * }
+}
